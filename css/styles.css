@@ -1,0 +1,13 @@
+/* styles.css */
+
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#gameCanvas {
+    border: 2px solid #fff;
+    background-image: url('../assets/background.png');
+    background-size: cover;
+}
